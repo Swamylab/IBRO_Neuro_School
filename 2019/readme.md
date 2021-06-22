@@ -11,7 +11,7 @@ Larvae obtained from Dr. Ohyama's lab bearing the red-shifted channelrhodopsin C
 
 Briefly, students had to use construction rail from MakerBeam to build a rectangular frame which housed a web camera and four far-red LEDs; the webcam was modified such that it could only view objects under infrared (>800nm) wavelengths. Four high-intensity, 560nm LEDs were affixed to the legs of the behavioral arena, wired to constant-current LED drivers (BuckPuck 1000mAh) which were in turn wired to an Arduino Microcontroller. Students learned how to wire these LEDs and connect them to microcontrollers from scratch.
 
-![Figure 2](schematic figure.pdf)
+![Figure 2](schematic figure.bmp)
 
  To image from the webcam, segment the image, derive live centroid positions for maggots, and send analog control signals to LED drivers, students were taught to use the python-based graphical programming environment Bonsai. Summary code from the three groups is available for download as are wiring diagrams for LEDs-Buckpucks-arduinos (Figure 2). A bill of goods is also available and shows that construction of a single arena is approximately $100 CDN. 
   
