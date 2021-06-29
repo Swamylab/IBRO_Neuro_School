@@ -19,5 +19,5 @@ K. Cha (Postdoc, Krishnaswamy Lab)
 ## TAs:
 Catherine Theriault (MSc student, Krishnaswamy Lab)
 
-Sebastian Wittendt (MSc student, Krishnaswamy Lab)
+Sebastian Wittekindt (MSc student, Krishnaswamy Lab)
 
