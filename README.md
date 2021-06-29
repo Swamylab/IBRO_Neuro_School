@@ -4,6 +4,9 @@
 
 Course summary, code files and parts lists for the IBRO Neuro Lab run as a part of the annual IBRO neuroscience school run at McGill University in Montreal, Canada.
 
+## Overview
+A 1-2 week lab course in new, low-cost, custom neuroscience methods offering students a chance to learn programming (python, matlab), microcontroller hacking (Arduino), and rapid prototyping methods (3dPrinting). 
+
 ## Instructors
 [Arjun Krishnaswamy](http://swamylab.com)
 
