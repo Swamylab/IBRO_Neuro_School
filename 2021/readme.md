@@ -11,11 +11,15 @@ The original paper comes from [Hoy et al., 2016](https://pubmed.ncbi.nlm.nih.gov
 Training videos were obtained from C. Theriault, and post-hoc analysis code was written in  a jupyter notebook by Dr. K. Cha.
 
 ## Instructors:
-..* A. Krishnaswamy
-..* M. Hendricks
-..* K. Cha (Postdoc, Krishnaswamy Lab)
+A. Krishnaswamy
+
+M. Hendricks
+
+K. Cha (Postdoc, Krishnaswamy Lab)
+
 
 ## TAs:
-..* Catherine Theriault (MSc student, Krishnaswamy Lab)
-..* Sebastian Wittendt (MSc student, Krishnaswamy Lab)
+Catherine Theriault (MSc student, Krishnaswamy Lab)
+
+Sebastian Wittendt (MSc student, Krishnaswamy Lab)
 
