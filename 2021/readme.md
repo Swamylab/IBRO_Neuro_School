@@ -14,9 +14,9 @@ Training videos were obtained from C. Theriault, and post-hoc analysis code was 
 Instructors:
 A. Krishnaswamy
 M. Hendricks
-K. Cha
+K. Cha (Postdoc, Krishnaswamy Lab)
 
 TAs:
-Catherine Theriault
-Sebastian Wittendt
+Catherine Theriault (MSc student, Krishnaswamy Lab)
+Sebastian Wittendt (MSc student, Krishnaswamy Lab)
 
