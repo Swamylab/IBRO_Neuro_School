@@ -16,3 +16,5 @@ Briefly, students had to use construction rail from MakerBeam to build a rectang
  To image from the webcam, segment the image, derive live centroid positions for maggots, and send analog control signals to LED drivers, students were taught to use the python-based graphical programming environment Bonsai. Summary code from the three groups is available for download as are wiring diagrams for LEDs-Buckpucks-arduinos (Figure 2). A bill of goods is also available and shows that construction of a single arena is approximately $100 CDN. 
   
 Sample Bonsai Code from each of the 3 groups is provided under the corresponding folder.
+
+Instructors: Drs. Arjun krishnaswamy, Michael Hendricks, Tomoko Ohyama
