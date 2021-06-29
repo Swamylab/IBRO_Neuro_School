@@ -18,3 +18,4 @@ Briefly, students had to use construction rail from MakerBeam to build a rectang
 Sample Bonsai Code from each of the 3 groups is provided under the corresponding folder.
 
 Instructors: Drs. Arjun krishnaswamy, Michael Hendricks, Tomoko Ohyama
+TAs: Kim Gruver 
