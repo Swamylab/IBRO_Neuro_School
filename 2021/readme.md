@@ -7,7 +7,7 @@ The class analyzed videos based on an elegant visual-behavioral test in which mi
 The original paper is [Hoy et al., 2016](https://pubmed.ncbi.nlm.nih.gov/27773567/)
 
 <img src="preyCapture.bmp" width = 25% height=25%>
- 
+ Example tracking paths of mouse (blue) and cricket (red) over a ~30second hunting segment.
 
 ### 
 Training videos were obtained from C. Theriault, and post-hoc analysis code was written in  a jupyter notebook by Dr. K. Cha.
