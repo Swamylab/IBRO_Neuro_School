@@ -5,6 +5,9 @@ The goal of this year's lab was to expose students to python programming and mar
 
 The class analyzed videos based on an elegant visual-behavioral test in which mice are trained to hunt small insects (crickets).
 The original paper is [Hoy et al., 2016](https://pubmed.ncbi.nlm.nih.gov/27773567/)
+
+ ![Figure 1](forIbroGithub(1).tif)
+
 ### 
 Training videos were obtained from C. Theriault, and post-hoc analysis code was written in  a jupyter notebook by Dr. K. Cha.
 
