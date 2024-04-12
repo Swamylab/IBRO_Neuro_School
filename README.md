@@ -10,6 +10,6 @@ A 1-2 week lab course in new, low-cost, custom neuroscience methods offering stu
 ## Instructors
 [Arjun Krishnaswamy](http://swamylab.com)
 
-[Michael Henricks](http://www.hendrickslab.org/people.html)
+[Michael Hendricks](http://www.hendrickslab.org/people.html)
 
 
